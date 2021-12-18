@@ -1,5 +1,5 @@
 # Sorting Visualizer
-[Link:](https://0bmdze0dvipwxn02sin7oq-on.drv.tw/www.visualizer.com/)
+[Link:](https://keshavkumar9431.github.io/sorting.visualizer/)
 --
 Here is the screenshot
 
