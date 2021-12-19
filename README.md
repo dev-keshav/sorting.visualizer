@@ -1,5 +1,5 @@
 # Sorting Visualizer
-[Link:](https://keshavkumar9431.github.io/sorting.visualizer/)
+[Link:](https://javascriptvisualizer.netlify.app/)
 --
 Here is the screenshot
 
