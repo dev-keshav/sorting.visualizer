@@ -12,6 +12,7 @@
     font-weight: bold;
     text-transform: uppercase;
   }
+
   
   nav {
     background-color: #383857;
@@ -42,7 +43,7 @@
     padding: 5% 0%;
   }
   
-  nav .array-inputs #a_generate {
+  /* nav .array-inputs #a_generate {
     background-color: transparent;
     border: none;
     outline: none;
@@ -54,7 +55,7 @@
   nav .array-inputs #a_generate:hover {
     cursor: pointer;
     background-color: rgb(47, 49, 47);
-  }
+  } */
   
   nav .header_right {
     display: -webkit-box;
@@ -68,7 +69,7 @@
   
   nav .header_right .nav-heading {
     display: inline-block;
-    font-size: xxx-large;
+    font-size:xx-large;
     padding: 3% 0%;
   }
   
@@ -119,8 +120,10 @@
     background-color: rgb(57, 57, 145);
     cursor: pointer;
   }
-  
+
   section {
+    background-color: #a5a5aa;
+    background-size: cover;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 20% 60% 20%;
@@ -152,7 +155,6 @@
       background-color: rgb(127, 214, 127);
   }
   
-
   
   /*
   @media (max-width: 480px)//Mobiles
