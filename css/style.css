@@ -154,14 +154,29 @@
       color: forestgreen;
       background-color: rgb(127, 214, 127);
   }
-  
-  
-  /*
-  @media (max-width: 480px)//Mobiles
-  {
-      
+
+  .small-screen{
+    display: none;
   }
   
+  
+  
+  @media (max-width: 480px)
+  {
+    .small-screen{
+      display: block;
+      background-color: red;
+      margin-top: 40vh;
+      margin-right: 10vw;
+      margin-left: 10vw;
+    }
+    header, section{
+      display: none;
+    }
+  }
+
+
+  /*
   @media (min-width: 481px) and (max-width: 1250px)//Tablets
   {
   
